@@ -1,63 +1,45 @@
-<h1 align="center">Ingénieur Big Data / Développeur Fullstack</h1>
+# Ingénieur Big Data / Développeur Fullstack
 
 ## Programming languages:
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75"/> <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75"/>
-    
-</p>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75"/> <span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75"/>
 
 #
 ## Big data tchnologies:
 
-
-<p align="center">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/627/PNG/512/sql-file-rounded-rectangular-outlined-interface-symbol_icon-icons.com_57503.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167868.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png" width="75"/>
-</p>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/627/PNG/512/sql-file-rounded-rectangular-outlined-interface-symbol_icon-icons.com_57503.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167868.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png" width="75"/>
 
 
 #
 ## Machine learning:
 
-
-<p align="center">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_170598.png" width="75"/>
-    <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="75"/>
-</p>
-
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_170598.png" width="75"/>
+<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="75"/>
 
 #
 ## Web developement:
 
-
-<p align="center">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/1822/PNG/128/scss_115520.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/1822/PNG/128/js_115529.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="75"/>
-</p>
-
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/1822/PNG/128/scss_115520.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/1822/PNG/128/js_115529.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="75"/>
 
 #
 ## Project management:
 
-
-<p align="center">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170512.png" width="75"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_confluence_icon_130672.png" width="75"/>
-</p>
-
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170512.png" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_confluence_icon_130672.png" width="75"/>
 
 #
 ## Diplômes et Formations
