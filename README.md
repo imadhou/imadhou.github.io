@@ -1,20 +1,74 @@
-# Data Scientist
+<h1 align="center">Ingénieur Big Data / Développeur Fullstack</h1>
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Programming languages:
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75"/> <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75"/>
+    
+</p>
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+#
+## Big data tchnologies:
+<p align="center">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/627/PNG/512/sql-file-rounded-rectangular-outlined-interface-symbol_icon-icons.com_57503.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167868.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png" width="75"/>
+</p>
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+#
+## Machine learning:
+<p align="center">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_170598.png" width="75"/>
+    <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="75"/>
+</p>
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+#
+## Web developement:
+<p align="center">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/1822/PNG/128/scss_115520.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/1822/PNG/128/js_115529.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="75"/>
+</p>
+
+#
+## Project management:
+<p align="center">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170512.png" width="75"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_confluence_icon_130672.png" width="75"/>
+</p>
+
+
+#
+## Diplômes et Formations
+
+- Master, Big data | Université de Cergy Pontoise (_Septembre 2023_)								       		
+- Licence, Informatique	| Université de Cergy Pontoise (_Juin 2021_)
+
+#
+## Expériences professionnelles
+
+**Développeur fullstack @ (Alternance) chez Sincro Solutions (_Septembre 2021 - Présent_)**
+- Développement d’API C# sur les frameworks .Net et EntityFramework suivant l’architecture cinq tiers.
+- Maintenance régulière et amélioration de la performance de la base de données SQL en optimisant les requêtes et en ajustant les index.
+- Implémentation d’un nouveau module de gestion d’habilitations pour gérer les rôles et les droits d’accès des utilisateur.
+- Implémentation d’un convertisseur de documents et mise en place d’un outil de prévisualisation de pièces jointes
+- Migration de données textuelles (documents) sur Azure Blob Storage
+- Amélioration de la marketplace Sincro et Intégration d’un système de recommandation de candidats (via une API externe)
+
+**Développeur fullstack @ (Stage) chez Groupe Enercy (_Avril - Juin 2021_)**
+
+- Conception et développement d'une application web pour gérer les activités de l'entreprise, en utilisant des technologies telles que PHP, MySql, HTML, CSS et JavaScript
+- Conception et développement d'une base de données SQL pour stocker et manipuler des données volumineuses
+- Administration et gestion du service DNS et du service Mail chez OVH pour garantir le bon fonctionnement et la disponibilité des sites web et des adresses email de l'entreprise
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
