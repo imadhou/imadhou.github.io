@@ -1,4 +1,12 @@
 # Ingénieur Big Data / Développeur Fullstack
+💻 Ingénieur en Big Data & Développeur Fullstack                                                                                            
+🎯 Passionné par l'IA et les nouvelles technologies
+
+ Radical dans ma méthodologie, j’aime construire des solutions from scratch, tout en restant pragmatique pour éviter de réinventer la roue. Mon quotidien est rythmé par l’écriture de code, l’exploration des avancées technologiques, et le partage de connaissances.
+
+ Je suis animé par un objectif ambitieux : implémenter tous les types de réseaux de neurones artificiels from scratch. Cela me permet non seulement de développer une compréhension approfondie des théories en IA, mais aussi d’aider les autres à contextualiser et maîtriser ces concepts complexes.
+
+ Si vous partagez cet intérêt pour l’IA, la programmation ou l’apprentissage collaboratif, je serai ravi d’échanger ! 🚀
 
 ## Langages de programmation:
 <p float="left">
