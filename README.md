@@ -12,8 +12,8 @@
 - [Contacts 📞](#Contacts)
 - [Diplômes et Formations 🎓](#diplômes-et-formations-)
 - [Expériences professionnelles 💼](#expériences-professionnelles-)
-- [Skills 🛠️](#skills-)
-- [Projets 🗂️](#projets-)
+- [Skills 🛠️](#skills-%EF%B8%8F)
+- [Projets 🗂️](#projets-%EF%B8%8F)
 
 
 ## Contacts
