@@ -8,7 +8,47 @@
 
  Si vous partagez cet intérêt pour l’IA, la programmation ou l’apprentissage collaboratif, je serai ravi d’échanger ! 🚀
 
-## Langages de programmation:
+## Contacts
+
+- 📧 **Email:** [imadhou00@gmail.com](mailto:yourname@example.com)
+- 📱 **Phone:** +33 611 70 47 82
+- 🔗 **LinkedIn:** [/in/imadhou](https://www.linkedin.com/in/imadhou/)
+- 📸 **Instagram:** [@mr_td.213](https://www.instagram.com/mr_td.213/)
+- 🎥 **YouTube:** [AI From Scratch](https://www.youtube.com/@AI_From_Scratch_Dev)
+
+
+## Diplômes et Formations 🎓
+
+- Master, Big data | Université de Cergy Pontoise
+- Licence, Informatique	| Université de Cergy Pontoise
+
+## Expériences professionnelles 💼
+
+**Développeur fullstack - Sincro Solutions (_Septembre 2021 - Présent_)**
+
+#### Technos:
+##### C#, .NetCore, Entity Framework, SQL Server <br /> Azure, Azure Devops, Github <br />Typescript, Angular 18, HTML, CSS, Angular Material, Flex Box 
+
+#### Missions:
+Dans un contexte de développement et de maintenance d'une plateforme SaaS combinant Marketplace, VMS et ERP pour la gestion de l'intermédiation mes mission au cotidien sont:
+- Développement, tests, et déploiement d'API REST et de batchs automatisés sous forme de WebJobs dans un environnement Azure App Service.
+- Développement et mainetnance d'une application web avec Angular, en utilisant les meilleures pratiques et les fonctionnalités avancées du framework.
+- Maintenance et optimisation des bases de données SQL : refactorisation des requêtes et ajustement des index pour améliorer les performances.
+- Gestion des pipelines CI/CD et déploiement automatisé avec GitHub et Azure DevOps pour une intégration continue et une livraison continue optimisées.
+- Intégration d’APIs externes pour enrichir les fonctionnalités des applications et automatiser les échanges de données.
+- Utilisation d'Azure Intelligence Studio pour la mise en place de solutions OCR, permettant l'extraction et la structuration de données à partir de documents scannés.
+- Gestion de documents dans Azure Blob Storage : stockage sécurisé, organisation et traitement de fichiers à grande échelle.
+
+**Développeur fullstack - Groupe Enercy (_Avril - Juin 2021_)**
+
+- Conception et développement d'une application web pour la gestion des activités de l'entreprise, avec PHP, MySQL, HTML, CSS et JavaScript.
+- Conception et gestion de bases de données SQL pour le stockage et la manipulation de données volumineuses.
+- Administration des services DNS et Mail chez OVH, assurant la disponibilité et la performance des sites web et des adresses email.
+- Collaboration avec les équipes internes pour recueillir les besoins métiers et assurer l'alignement technique des solutions développées avec les objectifs de l'entreprise.
+
+
+## Skills 🛠️
+### Langages de programmation:
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
@@ -16,14 +56,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
 </p>
 
-## Bases de données
+### Bases de données
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50"/>
 </p>
 
-## Cloud & devops
+### Cloud & devops
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="80"/>
@@ -31,7 +71,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" style="margin-left: 5px;"/>
 </p>
 
-## Big data:
+### Big data:
 <p float="left">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="100"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" width="50"/>
@@ -41,82 +81,64 @@
 
           
 
-## Machine learning:
+### Machine learning:
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="100" style="margin-left: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="80" height="100" style="margin-left: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70" height="100" style="margin-left: 5px;"/>
 </p>
 
-## Web:
+### Web:
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50"/>
 </p>
 
-## Gestion de projects:
+### Gestion de projects:
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="50"/>
 </p>
 
 
-## Diplômes et Formations
-
-- Master, Big data | Université de Cergy Pontoise (_Septembre 2023_)								       		
-- Licence, Informatique	| Université de Cergy Pontoise (_Juin 2021_)
-
-## Expériences professionnelles
-
-**Développeur fullstack @ (Alternance) chez Sincro Solutions (_Septembre 2021 - Présent_)**
-- Développement d’API C# sur les frameworks .Net et EntityFramework suivant l’architecture cinq tiers.
-- Maintenance régulière et amélioration de la performance de la base de données SQL en optimisant les requêtes et en ajustant les index.
-- Implémentation d’un nouveau module de gestion d’habilitations pour gérer les rôles et les droits d’accès des utilisateur.
-- Implémentation d’un convertisseur de documents et mise en place d’un outil de prévisualisation de pièces jointes
-- Migration de données textuelles (documents) sur Azure Blob Storage
-- Amélioration de la marketplace Sincro et Intégration d’un système de recommandation de candidats (via une API externe)
-
-**Développeur fullstack @ (Stage) chez Groupe Enercy (_Avril - Juin 2021_)**
-
-- Conception et développement d'une application web pour gérer les activités de l'entreprise, en utilisant des technologies telles que PHP, MySql, HTML, CSS et JavaScript
-- Conception et développement d'une base de données SQL pour stocker et manipuler des données volumineuses
-- Administration et gestion du service DNS et du service Mail chez OVH pour garantir le bon fonctionnement et la disponibilité des sites web et des adresses email de l'entreprise
-
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Détection de sentiments dans des discussions sur Twitter
+[Multimodal Sentiment Analysis](https://github.com/imadhou/multimodal-sentiment-analysis)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Développement d'un modèle d'analyse de sentiment multimodal, intégrant des données textuelles et visuelles (images).
+- Utilisation de techniques de fusion d'attention pour combiner efficacement les informations provenant des différentes modalités (texte et image) afin d'améliorer la précision de l'analyse de sentiment.
+- Entraînement et évaluation du modèle sur le dataset T4SA, qui contient des textes et des images annotés pour l'analyse des sentiments.
+- Implémentation en Python avec des bibliothèques comme TensorFlow et Keras pour construire, entraîner et tester le modèle.
+- Optimisation du modèle pour garantir des performances élevées dans des environnements réels, en ajustant les hyperparamètres et en utilisant des techniques avancées de régularisation.
+- Réalisation d'une évaluation comparative entre l'approche multimodale et les approches traditionnelles basées uniquement sur le texte.
+- Publication du code sur GitHub, fournissant un accès transparent à l'implémentation et facilitant la collaboration open-source.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Estimateur de salaires moyens des métiers de l'IT selon le pays 
+[IT Positions Salary Estimator](https://github.com/imadhou/it-positions-salary-estimator)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Développement d'une application Python permettant d'estimer les salaires des différents postes IT, en exploitant des données provenant de multiples sources pour fournir des estimations salariales précises et adaptées aux régions spécifiques.
+- Collecte de données : Agrégation des données salariales à partir de sources fiables pour couvrir un large éventail de rôles dans le secteur IT.
+- Traitement des données : Nettoyage et prétraitement des données collectées pour les rendre prêtes à l'analyse.
+- Développement du modèle : Mise en place d'algorithmes d'apprentissage automatique pour prédire les plages salariales en fonction des intitulés de poste, du niveau d'expérience et de la localisation géographique.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Etherplace - Marketplace Décentralisé Basé sur la Blockchain  
+[Etherplace](https://github.com/imadhou/Etherplace)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Développement d'une plateforme de commerce électronique décentralisée utilisant la technologie blockchain pour assurer la sécurité et la transparence des transactions. Le projet est disponible sur GitHub :
+- Architecture Décentralisée : Création d'un système sans intermédiaires, permettant des transactions directes entre acheteurs et vendeurs.
+- Technologies Utilisées : Intégration d'Ethereum, Geth, Web3.js, JavaScript et Node.js pour le développement de la plateforme.
+- Gestion des Transactions : Utilisation de la blockchain pour enregistrer de manière sécurisée et transparente toutes les transactions effectuées sur la plateforme.
+- Interface Utilisateur : Conception d'une interface conviviale facilitant la navigation et l'utilisation de la plateforme par les utilisateurs.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### Mini Framework MVC avec PHP et MySql  
+[LiverBird](https://github.com/imadhou/LiverBird)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- Développement d'un framework PHP léger basé sur le modèle MVC, conçu pour faciliter la création d'applications web structurées et maintenables. Le projet est disponible sur GitHub :
+- Architecture MVC : Mise en œuvre du modèle Model-View-Controller pour séparer clairement la logique métier, la présentation et le contrôle des flux.
+- Structure modulaire : Conception d'une architecture modulaire permettant une extension et une maintenance aisées du framework.
+- Documentation complète : Fourniture d'une documentation détaillée pour faciliter l'adoption et l'utilisation du framework par d'autres développeurs.
+- Exemples pratiques : Inclusion d'exemples concrets pour démontrer l'utilisation du framework dans divers scénarios de développement.
