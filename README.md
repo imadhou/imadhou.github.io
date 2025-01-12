@@ -8,6 +8,14 @@
 
  Si vous partagez cet intérêt pour l’IA, la programmation ou l’apprentissage collaboratif, je serai ravi d’échanger ! 🚀
 
+
+- [Contacts 📞](#Contacts)
+- [Diplômes et Formations 🎓](#diplômes-et-formations-)
+- [Expériences professionnelles 💼](#expériences-professionnelles-)
+- [Skills 🛠️](#skills)
+- [Projets 🗂️](#projet)
+
+
 ## Contacts
 
 - 📧 **Email:** [imadhou00@gmail.com](mailto:yourname@example.com)
@@ -103,7 +111,7 @@ Dans un contexte de développement et de maintenance d'une plateforme SaaS combi
 </p>
 
 
-## Projects
+## Projects 🗂️
 ### Détection de sentiments dans des discussions sur Twitter
 [Multimodal Sentiment Analysis](https://github.com/imadhou/multimodal-sentiment-analysis)
 
