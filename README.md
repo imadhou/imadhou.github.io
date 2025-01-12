@@ -18,7 +18,7 @@
 
 ## Contacts
 
-- 📧 **Email:** [imadhou00@gmail.com](mailto:yourname@example.com)
+- 📧 **Email:** [imadhou00@gmail.com](mailto:imadhou00@gmail.com)
 - 📱 **Phone:** +33 611 70 47 82
 - 🔗 **LinkedIn:** [/in/imadhou](https://www.linkedin.com/in/imadhou/)
 - 📸 **Instagram:** [@mr_td.213](https://www.instagram.com/mr_td.213/)
