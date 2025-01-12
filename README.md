@@ -12,7 +12,7 @@
 - [Contacts 📞](#Contacts)
 - [Diplômes et Formations 🎓](#diplômes-et-formations-)
 - [Expériences professionnelles 💼](#expériences-professionnelles-)
-- [Skills 🛠️](#skills-)
+- [Skills 🛠️](#skills-%EF%B8%8F)
 - [Projets 🗂️](#projets-)
 
 
