@@ -9,7 +9,7 @@
  Si vous partagez cet intérêt pour l’IA, la programmation ou l’apprentissage collaboratif, je serai ravi d’échanger ! 🚀
 
 
-- [Contacts 📞](#contacts-)
+- [Contacts 📞](#contacts-%EF%B8%8F)
 - [Diplômes et Formations 🎓](#diplômes-et-formations-)
 - [Expériences professionnelles 💼](#expériences-professionnelles-)
 - [Skills 🛠️](#skills-%EF%B8%8F)
