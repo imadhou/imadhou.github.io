@@ -12,8 +12,8 @@
 - [Contacts 📞](#Contacts)
 - [Diplômes et Formations 🎓](#diplômes-et-formations-)
 - [Expériences professionnelles 💼](#expériences-professionnelles-)
-- [Skills 🛠️](#Skills)
-- [Projets 🗂️](#Projet)
+- [Skills 🛠️](#Skills-)
+- [Projets 🗂️](#Projets-)
 
 
 ## Contacts
@@ -111,7 +111,7 @@ Dans un contexte de développement et de maintenance d'une plateforme SaaS combi
 </p>
 
 
-## Projects 🗂️
+## Projets 🗂️
 
 ### Détection de sentiments dans des discussions sur Twitter
 [Multimodal Sentiment Analysis](https://github.com/imadhou/multimodal-sentiment-analysis)
