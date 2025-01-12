@@ -27,8 +27,8 @@
 
 ## Diplômes et Formations 🎓
 
-- Master, Big data | Université de Cergy Pontoise
-- Licence, Informatique	| Université de Cergy Pontoise
+- Master, Big data, Université de Cergy Pontoise
+- Licence, Informatique, Université de Cergy Pontoise
 
 ## Expériences professionnelles 💼
 
