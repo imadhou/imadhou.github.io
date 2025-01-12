@@ -54,8 +54,8 @@ Dans un contexte de développement et de maintenance d'une plateforme SaaS combi
 - Administration des services DNS et Mail chez OVH, assurant la disponibilité et la performance des sites web et des adresses email.
 - Collaboration avec les équipes internes pour recueillir les besoins métiers et assurer l'alignement technique des solutions développées avec les objectifs de l'entreprise.
 
-
 ## Skills 🛠️
+
 ### Langages de programmation:
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -112,6 +112,7 @@ Dans un contexte de développement et de maintenance d'une plateforme SaaS combi
 
 
 ## Projects 🗂️
+
 ### Détection de sentiments dans des discussions sur Twitter
 [Multimodal Sentiment Analysis](https://github.com/imadhou/multimodal-sentiment-analysis)
 
